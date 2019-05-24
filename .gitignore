@@ -1,0 +1,12 @@
+# multimedia
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# python
+*.pyc
+
+# jupyter
+*.ipynb_checkpoints
+
